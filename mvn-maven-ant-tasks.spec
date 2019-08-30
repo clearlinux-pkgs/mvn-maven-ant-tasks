@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-ant-tasks
 Version  : 2.1.3
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/maven-ant-tasks/archive/maven-ant-tasks-2.1.3.tar.gz
 Source0  : https://github.com/apache/maven-ant-tasks/archive/maven-ant-tasks-2.1.3.tar.gz
 Source1  : http://repo2.maven.org/maven2/org/apache/maven/maven-ant-tasks/2.1.3/maven-ant-tasks-2.1.3.jar
